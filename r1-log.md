@@ -12,3 +12,7 @@ Solved a couple of problems in C.
 ### R1D2
 Learned to make a first person shooter in Unreal Engine(EvilCube)
 Coded problem in May Circuits '19
+
+### R1D3
+Worked on a chocolate bar problem on Hackerrank
+Learned inserting nodes in a tree(C)
