@@ -16,3 +16,6 @@ Coded problem in May Circuits '19
 ### R1D3
 Worked on a chocolate bar problem on Hackerrank
 Learned inserting nodes in a tree(C)
+
+### R1D4
+Solved a random problem on Leetcode mock interview
