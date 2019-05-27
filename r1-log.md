@@ -19,3 +19,6 @@ Learned inserting nodes in a tree(C)
 
 ### R1D4
 Solved a random problem on Leetcode mock interview
+
+### R1D5 
+Inserting nodes into a tree.
