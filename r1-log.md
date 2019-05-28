@@ -22,3 +22,6 @@ Solved a random problem on Leetcode mock interview
 
 ### R1D5 
 Inserting nodes into a tree.
+
+### R1D6
+Solved couple of problems on hackerrank
