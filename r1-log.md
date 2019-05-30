@@ -28,3 +28,6 @@ Solved couple of problems on hackerrank
 
 ### R1D7
 Tried Advent of Code d1p2(linked approach)
+
+### R1D8 
+Solved problems on hackerrank
