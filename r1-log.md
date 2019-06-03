@@ -31,3 +31,13 @@ Tried Advent of Code d1p2(linked approach)
 
 ### R1D8 
 Solved problems on hackerrank
+
+### R1D9
+Prepped for an interview
+
+### R1D10
+Solved problems on the interview z
+
+### R1D11
+Day 2 on the interview and cracked coding interview but didnt make it
+
