@@ -41,3 +41,5 @@ Solved problems on the interview z
 ### R1D11
 Day 2 on the interview and cracked coding interview but didnt make it
 
+### R1D12
+Learned the fundamentals of Blender
