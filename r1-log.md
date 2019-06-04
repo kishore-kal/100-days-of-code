@@ -43,3 +43,6 @@ Day 2 on the interview and cracked coding interview but didnt make it
 
 ### R1D12
 Learned the fundamentals of Blender
+
+### R1D13 
+Tic Tac Toe in C
