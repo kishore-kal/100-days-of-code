@@ -52,3 +52,6 @@ Hash Map set in Java
 
 ### R1D15
 Advent of code 
+
+### R1D16
+AoC Day 1 with Java
