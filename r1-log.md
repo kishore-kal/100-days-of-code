@@ -55,3 +55,9 @@ Advent of code
 
 ### R1D16
 AoC Day 1 with Java
+
+### R1D17
+AoC again
+
+### R1D18
+Finally completed AoC Day 1
