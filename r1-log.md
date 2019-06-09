@@ -60,4 +60,4 @@ AoC Day 1 with Java
 AoC again
 
 ### R1D18
-Finally completed AoC Day 1
+Finally completed AoC Day 1(C++)
