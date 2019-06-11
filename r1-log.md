@@ -61,3 +61,6 @@ AoC again
 
 ### R1D18
 Finally completed AoC Day 1(C++)
+
+### R1D19
+AoC Day 2
