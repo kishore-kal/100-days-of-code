@@ -67,3 +67,7 @@ AoC Day 2
 
 ### R1D20
 Completed AoC Day 2 Part 1
+
+### R1D21
+Learned conditionals and switch in JavaScript
+
