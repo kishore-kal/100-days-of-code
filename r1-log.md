@@ -71,3 +71,6 @@ Completed AoC Day 2 Part 1
 ### R1D21
 Learned conditionals and switch in JavaScript
 
+### R1D22
+Completed AoC Day 2 Part 2 and Learned Vectors in C++
+
