@@ -76,3 +76,6 @@ Completed AoC Day 2 Part 2 and Learned Vectors in C++
 
 ### R1D23 
 Worked on AoC Day 2
+
+### R1D24
+Worked on AoC Day 3 
