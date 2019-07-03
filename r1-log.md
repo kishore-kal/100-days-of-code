@@ -79,3 +79,6 @@ Worked on AoC Day 2
 
 ### R1D24
 Worked on AoC Day 3 
+
+### R1D25
+Worked on slice func on AoC day 3
