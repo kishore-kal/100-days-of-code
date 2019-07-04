@@ -82,3 +82,6 @@ Worked on AoC Day 3
 
 ### R1D25
 Worked on slice func on AoC day 3
+
+### R1D26 
+Learned the concepts of crates,match,io::result,rand from guessing game.
