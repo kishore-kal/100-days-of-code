@@ -88,3 +88,6 @@ Learned the concepts of crates,match,io::result,rand from guessing game.
 
 ### R1D27 
 My first mozilla web extension
+
+### R1D28(23/07/19)
+Worked on 7 CSS Visual design exercises on freecodecamp.
