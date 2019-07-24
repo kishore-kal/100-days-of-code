@@ -91,3 +91,6 @@ My first mozilla web extension
 
 ### R1D28(23/07/19)
 Worked on 7 CSS Visual design exercises on freecodecamp.
+
+### R1D29
+completed applied accessibility and visual degion section in freecodecamp.
