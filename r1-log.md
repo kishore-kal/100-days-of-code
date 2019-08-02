@@ -94,3 +94,8 @@ Worked on 7 CSS Visual design exercises on freecodecamp.
 
 ### R1D29
 completed applied accessibility and visual degion section in freecodecamp.
+
+### R1D30
+Finished up Grid curriculum on Freecodecamp
+Started building Tribute page
+
